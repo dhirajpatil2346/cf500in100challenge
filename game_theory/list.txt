@@ -1,0 +1,100 @@
+959A	Mahmoud and Ehab and the even-odd gamegames, math	Submit Add to favourites	800	 x39191
+1373B	01 Gamegames	Submit Add to favourites	900	 x29644
+1858A	Buttonsgames, greedy, math	Submit Add to favourites	800	 x28012
+1480A	Yet Another String Gamegames, greedy, strings	Submit Add to favourites	800	 x24836
+276B	Little Girl and Gamegames, greedy	Submit Add to favourites	1300	 x24685
+1472D	Even-Odd Gamedp, games, greedy, sortings	Submit Add to favourites	1200	 x24175
+1719A	Chip Gamegames, math	Submit Add to favourites	800	 x24112
+1398B	Substring Removal Gamegames, greedy, sortings	Submit Add to favourites	800	 x23491
+1382B	Sequential Nimdp, games	Submit Add to favourites	1100	 x23094
+1365A	Matrix Gamegames, greedy, implementation	Submit Add to favourites	1100	 x22965
+1684A	Digit Minimizationconstructive algorithms, games, math, strings	Submit Add to favourites	800	 x22698
+1841A	Game with Boardconstructive algorithms, games	Submit Add to favourites	800	 x22696
+1527B1	Palindrome Game (easy version)constructive algorithms, games	Submit Add to favourites	1200	 x22287
+1370C	Number Gamegames, math, number theory	Submit Add to favourites	1400	 x22143
+1844A	Subtraction Gameconstructive algorithms, games	Submit Add to favourites	800	 x22066
+1681A	Game with Cardsgames, greedy	Submit Add to favourites	800	 x20261
+832A	Sasha and Sticksgames, math	Submit Add to favourites	800	 x19287
+1419A	Digit Gamegames, greedy, implementation	Submit Add to favourites	900	 x18746
+1455C	Ping-pongconstructive algorithms, games, math	Submit Add to favourites	1100	 x18683
+1842A	Tenzing and Tsondugames, math	Submit Add to favourites	800	 x18204
+1747C	Swap Gamegames	Submit Add to favourites	1200	 x18170
+1673A	Subtle Substring Subtractiongames, greedy, strings	Submit Add to favourites	800	 x17774
+1695B	Circle Gamegames, greedy	Submit Add to favourites	1000	 x17167
+1363C	Game On Leavesgames, trees	Submit Add to favourites	1600	 x16813
+1270A	Card Gamegames, greedy, math	Submit Add to favourites	800	 x16232
+546C	Soldier and Cardsbrute force, dfs and similar, games	Submit Add to favourites	1400	 x15900
+1695A	Subrectangle Guessgames	Submit Add to favourites	800	 x15799
+1627B	Not Sittinggames, greedy, sortings	Submit Add to favourites	1300	 x15641
+1672A	Log Choppinggames, implementation, math	Submit Add to favourites	800	 x15413
+570B	Simple Gameconstructive algorithms, games, greedy, implementation, math	Submit Add to favourites	1300	 x14940
+1848A	Vika and Her Friendsgames, math	Submit Add to favourites	900	 x14440
+1102C	Doors Breaking and Repairinggames	Submit Add to favourites	1200	 x12313
+1749C	Number Gamebinary search, data structures, games, greedy, implementation	Submit Add to favourites	1400	 x12023
+841B	Godsendgames, math	Submit Add to favourites	1100	 x11562
+1537D	Deleting Divisorsgames, math, number theory	Submit Add to favourites	1700	 x11208
+1155B	Game with Telephone Numbersgames, greedy, implementation	Submit Add to favourites	1200	 x10952
+1834C	Game with Reversinggames, greedy, math, strings	Submit Add to favourites	1200	 x10800
+616B	Dinner with Emmagames, greedy	Submit Add to favourites	1000	 x10612
+755B	PolandBall and Gamebinary search, data structures, games, greedy, sortings, strings	Submit Add to favourites	1100	 x10404
+1396B	Stoned Gamebrute force, constructive algorithms, games, greedy	Submit Add to favourites	1800	 x10303
+1860C	Game on Permutationdata structures, dp, games, greedy	Submit Add to favourites		 x9941
+1740C	Bricks and Bagsconstructive algorithms, games, greedy, sortings	Submit Add to favourites	1400	 x9637
+1220C	Substring Game in the Lessongames, greedy, strings	Submit Add to favourites	1300	 x9607
+1738C	Even Number Addictsdp, games, greedy, math	Submit Add to favourites	1500	 x9523
+493D	Vasya and Chessconstructive algorithms, games, math	Submit Add to favourites	1700	 x9213
+1451D	Circle Gamegames, geometry, math	Submit Add to favourites	1700	 x8939
+1867C	Salyg1n and the MEX Gameconstructive algorithms, data structures, games, greedy, interactive	Submit Add to favourites		 x8754
+705B	Spider Mangames, math	Submit Add to favourites	1100	 x8439
+914B	Conan and Agasa play a Card Gamegames, greedy, implementation	Submit Add to favourites	1200	 x8295
+346A	Alice and Bobgames, math, number theory	Submit Add to favourites	1600	 x8180
+1739C	Card Gamecombinatorics, constructive algorithms, dp, games	Submit Add to favourites	1500	 x8018
+630R	Gamegames, math	Submit Add to favourites	1200	 x7833
+150A	Win or Freezegames, math, number theory	Submit Add to favourites	1400	 x7295
+1527B2	Palindrome Game (hard version)constructive algorithms, games	Submit Add to favourites	1900	 x7125
+1404B	Tree Tagdfs and similar, dp, games, trees	Submit Add to favourites	1900	 x6784
+1503B	3-Coloringconstructive algorithms, games, interactive	Submit Add to favourites	1700	 x6636
+257B	Playing Cubesgames, greedy, implementation	Submit Add to favourites	1300	 x6537
+3C	Tic-tac-toebrute force, games, implementation	Submit Add to favourites	1800	 x6455
+934A	A Compatible Pairbrute force, games	Submit Add to favourites	1400	 x6434
+1728D	Letter Pickingconstructive algorithms, dp, games, two pointers	Submit Add to favourites	1800	 x6253
+148D	Bag of micedp, games, math, probabilities	Submit Add to favourites	1800	 x6250
+1190B	Tokitsukaze, CSL and Stone Gamegames	Submit Add to favourites	1800	 x5965
+1194D	1-2-K Gamegames, math	Submit Add to favourites	1700	 x5953
+1425A	Arena of Greedgames, greedy	Submit Add to favourites	1400	 x5946
+1215D	Ticket Gamegames, greedy, math	Submit Add to favourites	1700	 x5841
+197A	Plate Gameconstructive algorithms, games, math	Submit Add to favourites	1600	 x5776
+1772E	Permutation Gamegames	Submit Add to favourites	1700	 x5694
+1495B	Let's Go Hikinggames, greedy	Submit Add to favourites	1900	 x5609
+455B	A Lot of Gamesdfs and similar, dp, games, implementation, strings, trees	Submit Add to favourites	1900	 x5352
+1737C	Ela and Cricketsconstructive algorithms, games, implementation, math	Submit Add to favourites	1500	 x5190
+1033C	Permutation Gamebrute force, dp, games	Submit Add to favourites	1600	 x5150
+1372D	Omkar and Circlebrute force, dp, games, greedy	Submit Add to favourites	2100	 x5132
+859C	Pie Rulesdp, games	Submit Add to favourites	1500	 x5037
+1383B	GameGamebitmasks, constructive algorithms, dp, games, greedy, math	Submit Add to favourites	1900	 x4590
+980C	Posterizedgames, greedy	Submit Add to favourites	1700	 x3669
+1333D	Challenges in school №41brute force, constructive algorithms, games, graphs, greedy, implementation, sortings	Submit Add to favourites	2100	 x3555
+1665D	GCD Guessbitmasks, chinese remainder theorem, constructive algorithms, games, interactive, math, number theory	Submit Add to favourites	2000	 x3376
+1770D	Koxia and Gameconstructive algorithms, data structures, dfs and similar, dsu, flows, games, graph matchings, graphs, implementation	Submit Add to favourites	2000	 x3370
+917B	MADMAXdfs and similar, dp, games, graphs	Submit Add to favourites	1700	 x3347
+794C	Naming Companygames, greedy, sortings	Submit Add to favourites	1800	 x2947
+388C	Fox and Card Gamegames, greedy, sortings	Submit Add to favourites	2000	 x2924
+936B	Sleepy Gamedfs and similar, dp, games, graphs	Submit Add to favourites	2100	 x2908
+1147C	Thanos Nimgames	Submit Add to favourites	2000	 x2812
+1628D1	Game on Sum (Easy Version)combinatorics, dp, games, math	Submit Add to favourites	2100	 x2677
+1605D	Treelabelingbitmasks, constructive algorithms, dfs and similar, games, greedy, implementation, trees	Submit Add to favourites	2100	 x2670
+293A	Weird Gamegames, greedy	Submit Add to favourites	1500	 x2641
+120E	Put Knight!games, math	Submit Add to favourites	1400	 x2547
+768E	Game of Stonesbitmasks, dp, games	Submit Add to favourites	2100	 x2485
+786A	Berzerkdfs and similar, dp, games	Submit Add to favourites	2000	 x2232
+1864E	Guess Gamebitmasks, data structures, games, math, probabilities, sortings, strings, trees	Submit Add to favourites		 x2122
+533C	Board Gamegames, greedy, implementation, math	Submit Add to favourites	1700	 x2099
+15C	Industrial Nimgames	Submit Add to favourites	2000	 x2011
+896B	Ithea Plays With Chthollybinary search, constructive algorithms, games, greedy, interactive	Submit Add to favourites	2000	 x1971
+1600E	Array Gamegames, greedy, two pointers	Submit Add to favourites	1900	 x1806
+1375F	Integer Gameconstructive algorithms, games, interactive, math	Submit Add to favourites	2600	 x1804
+603C	Lieges of Legendregames, math	Submit Add to favourites	2200	 x1763
+1628D2	Game on Sum (Hard Version)combinatorics, dp, games, math	Submit Add to favourites	2400	 x1743
+78C	Beaver Gamedp, games, number theory	Submit Add to favourites	2000	 x1742
+549C	The Game Of Paritygames	Submit Add to favourites	2200	 x1681
+1190C	Tokitsukaze and Duelbrute force, games, greedy	Submit Add to favourites	2300	 x1679
