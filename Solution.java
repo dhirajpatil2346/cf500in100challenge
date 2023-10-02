@@ -1,14 +1,69 @@
+import java.util.ArrayList;
+import java.util.Stack;
+
 public class Solution {
-    public int solve(int[] A, int B) {
-        HashSet<Integer> set = new HashSet<>();
-        // 1 1 1 1 5 //  B = 0
-        // set = 1
-        for(int i = 0 ; i < A.length ; i++){
-            if(set.contains(A[i] + B) || set.contains(A[i] - B)){
-                return 1;
+    public String solve(String A) {
+        return infixToPostfix(A);
+    }
+    // +b*(c^d-e)^(f+g*h)-i
+    // 
+    public int prec(char c) {
+        if (c == '^')
+            return 3;
+        else if (c == '*' || c == '/')
+            return 2;
+        else if (c == '+' || c == '-')
+            return 1;
+        else
+            return -1;
+    }
+    // Function to convert infix expression
+    //to postfix expression
+    public String infixToPostfix(String s) {
+        Stack < Character > st = new Stack < Character > ();
+        st.push('N');
+        ArrayList < Character > ns = new ArrayList < Character > ();
+        for (int i = 0; i < s.length(); i++) {
+            char C = s.charAt(i);
+            // If the scanned character is an operand, add it to output string.
+            if ((C >= 'a' && C <= 'z') || (C >= 'A' && C <= 'Z'))
+                ns.add(C);
+            // If the scanned character is an '(', push it to the stack.
+            else if (C == '(')
+                st.push('(');
+            // If the scanned character is an ')', pop and to output string from the stack
+            // until an '(' is encountered.
+            else if (C == ')') {
+                while (st.peek() != 'N' && st.peek() != '(') {
+                    char c = st.peek();
+                    st.pop();
+                    ns.add(c);
+                }
+                if (st.peek() == '(') {
+                    st.pop();
+                }
             }
-            set.add(A[i]);
+            //If an operator is scanned
+            else {
+                while (st.peek() != 'N' && prec(C) <= prec(st.peek())) {
+                    char c = st.peek();
+                    st.pop();
+                    ns.add(c);
+                }
+                st.push(C);
+            }
         }
-        return 0;
+        //Pop all the remaining elements from the stack
+        while (st.peek() != 'N')
+        {
+            char c = st.peek();
+            st.pop();
+            ns.add(c);
+        }
+        StringBuilder result = new StringBuilder(ns.size());
+        for (Character c: ns) {
+            result.append(c);
+        }
+        return result.toString();
     }
 }
